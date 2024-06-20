@@ -30,7 +30,7 @@ navegador.find_element(By.ID, "mui-4").send_keys("205,50")
 sleep(0.5)
 navegador.find_element(By.ID, "mui-6").send_keys("20,00")
 sleep(0.5)
-navegador.find_element(By.XPATH, "//*[@id='mui-5']").send_keys('D:\IJJ\Itensdesafio\jessica.jpg')
+navegador.find_element(By.XPATH, "//*[@id='mui-5']").send_keys('F:\IJJ\Itensdesafio\jessica.jpg')
 
 #CADASTRAR ITEM
 navegador.find_element(By.XPATH, "/html/body/div/header/section[2]/div/div[1]/div/form/button").submit()

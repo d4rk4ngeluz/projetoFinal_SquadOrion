@@ -45,6 +45,6 @@ class Navegador:
 navegador = Navegador("https://projetofinal.jogajuntoinstituto.org/")
 navegador.acessar_site()
 navegador.preencher_formulario("orion@squadorion.org", "orion1234")
-navegador.adicionar_item("Bolsa Clássica Jessica Sun", "Bolsa Clássica Jessica Sun - Branca", "205,50", "20,00", 'D:\IJJ\Itensdesafio\jessica.jpg')
+navegador.adicionar_item("Bolsa Clássica Jessica Sun", "Bolsa Clássica Jessica Sun - Branca", "205,50", "20,00", 'f:\IJJ\Itensdesafio\jessica.jpg')
 navegador.cadastrar_item()
 navegador.fechar_navegador()
